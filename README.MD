@@ -1,3 +1,3 @@
 ## Github status
-[![github stats](https://github-readme-stats.vercel.app/api?username=mrbadri&&card_width=2000px)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=mrbadri&&card_width=900px)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbadri&layout=compact)](https://github.com/arminnacl/github-readme-stats)
